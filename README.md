@@ -103,5 +103,3 @@ The system checks for the presence of the Steam Client on startup:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
