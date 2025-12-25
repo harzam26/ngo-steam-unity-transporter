@@ -1,6 +1,6 @@
 {
   "name": "com.ngo-steam-transporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "NGO Steam Transporter",
   "description": "Hybrid network transport system for Unity Netcode. Automatically switches between UnityTransport (local) and FacepunchTransport (Steam Relay).",
   "unity": "6000.3",
