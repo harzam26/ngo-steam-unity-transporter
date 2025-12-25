@@ -41,7 +41,7 @@ public class NetworkLayerInstaller
         SerializedProperty layersProp = tagManager.FindProperty("layers");
 
         bool layerAdded = false;
-        string[] requiredLayers = {"" ,LAYER_PLAYER, LAYER_BOUNDS };
+        string[] requiredLayers = {LAYER_PLAYER, LAYER_BOUNDS };
         
         foreach (string layerName in requiredLayers)
         {
