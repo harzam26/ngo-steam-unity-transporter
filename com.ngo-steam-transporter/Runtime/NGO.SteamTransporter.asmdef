@@ -1,0 +1,17 @@
+{
+  "name": "NGO.SteamTransporter",
+  "references": [
+    "Unity.Netcode.Runtime",
+    "Unity.Networking.Transport",
+    "NGO.SteamTransporter.Facepunch",
+    "Unity.Services.Core",           
+    "Unity.Services.Authentication",
+    "Unity.Services.Multiplayer",
+    "Unity.Services.Relay",
+    "Unity.Cinemachine",
+    "Unity.TextMeshPro",
+    "Unity.Collections",
+    "Unity.InputSystem"],
+  "includePlatforms": [],
+  "autoReferenced": true
+}

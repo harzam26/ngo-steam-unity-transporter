@@ -1,0 +1,10 @@
+{
+    "name": "NGO.SteamTransporter.Facepunch",
+    "references": [
+        "Unity.Netcode.Runtime",
+        "Unity.Transport"
+    ],
+    "includePlatforms": [],
+    "autoReferenced": true,
+    "allowUnsafeCode": true
+}
